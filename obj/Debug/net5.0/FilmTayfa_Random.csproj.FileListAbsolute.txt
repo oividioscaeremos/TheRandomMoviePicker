@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\FilmTayfa_Random\bin\Debug\net5.0\FilmTayfa_Random.exe
+C:\Users\admin\source\repos\FilmTayfa_Random\bin\Debug\net5.0\FilmTayfa_Random.deps.json
+C:\Users\admin\source\repos\FilmTayfa_Random\bin\Debug\net5.0\FilmTayfa_Random.runtimeconfig.json
+C:\Users\admin\source\repos\FilmTayfa_Random\bin\Debug\net5.0\FilmTayfa_Random.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FilmTayfa_Random\bin\Debug\net5.0\FilmTayfa_Random.dll
+C:\Users\admin\source\repos\FilmTayfa_Random\bin\Debug\net5.0\ref\FilmTayfa_Random.dll
+C:\Users\admin\source\repos\FilmTayfa_Random\bin\Debug\net5.0\FilmTayfa_Random.pdb
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.AssemblyInfo.cs
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.dll
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\ref\FilmTayfa_Random.dll
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.pdb
+C:\Users\admin\source\repos\FilmTayfa_Random\obj\Debug\net5.0\FilmTayfa_Random.genruntimeconfig.cache

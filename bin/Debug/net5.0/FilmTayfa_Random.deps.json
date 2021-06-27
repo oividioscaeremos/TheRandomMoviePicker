@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FilmTayfa_Random/1.0.0": {
+        "runtime": {
+          "FilmTayfa_Random.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilmTayfa_Random/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
